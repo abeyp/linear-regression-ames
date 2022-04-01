@@ -8,10 +8,10 @@ In these Jupyter notebooks, I start with :
 * a multiple linear regression machine learning model with Lasso Regression ( L_1 Regularization).
 
 Credits to: 
-Ames Dataset from Dean De Cock: https://ww2.amstat.org/publications/jse/v19n3/decock.pdf
-Kaggle:https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
-https://www.kaggle.com/code/juliencs/a-study-on-regression-applied-to-the-ames-dataset/notebook
-https://www.kaggle.com/apapiu/house-prices-advanced-regression-techniques/regularized-linear-models
+* Ames Dataset from Dean De Cock: https://ww2.amstat.org/publications/jse/v19n3/decock.pdf
+* Kaggle:https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+* https://www.kaggle.com/code/juliencs/a-study-on-regression-applied-to-the-ames-dataset/notebook
+* https://www.kaggle.com/apapiu/house-prices-advanced-regression-techniques/regularized-linear-models
 
 Learning with:
 Python for Data Science Handbook by Jake VanderPlas: https://github.com/jakevdp/PythonDataScienceHandbook
